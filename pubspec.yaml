@@ -1,0 +1,12 @@
+name: edf_app
+description: EDF Fitness App
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
